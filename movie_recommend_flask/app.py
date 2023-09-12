@@ -10,10 +10,10 @@ from sklearn.preprocessing import StandardScaler
 
 # 데이터베이스 연결
 db = pymysql.connect(
-    host="yourAWSEndpoint", # AWS Endpoint 주소
+    host="database-1.crcwt5epkeh5.ap-northeast-2.rds.amazonaws.com", # AWS Endpoint 주소
     port=3306,
     user='admin',
-    passwd='password', # 비밀번호
+    passwd='1q2w3e4r', # 비밀번호
     db='movie_db',
     charset='utf8'
 )
