@@ -1,4 +1,3 @@
-/movie_recommend_flask/app.py
-/movie_recommend_springboot/demo/src/main/resources/application.properties
+movie_recommend_flask/app.py
 movie_recommend_springboot/demo/src/main/resources/application.properties
 movie_recommend_springboot/demo/src/main/java/com/example/demo/controller/MovieController.java
