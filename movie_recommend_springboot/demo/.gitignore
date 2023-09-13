@@ -31,4 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
-/demo/src/main/resources/application.properties
+/movie_recommend_springboot/demo/src/main/resources/application.properties
